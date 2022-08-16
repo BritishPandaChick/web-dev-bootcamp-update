@@ -103,3 +103,16 @@ h2::first-letter {
 p::first-line {
     color: purple;
 }
+
+p::selection {
+    color: #fcbf49;
+}
+
+.post button:hover {
+    background-color: #e63946;
+    color: #f1faee;
+}
+
+button:hover {
+    background-color: olive;
+}
